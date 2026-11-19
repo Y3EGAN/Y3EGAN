@@ -1,6 +1,6 @@
 ![Reagan Hu · AI Robotics and Robot Learning](https://raw.githubusercontent.com/Y3EGAN/Y3EGAN/5069e5e0a7417ba42a0107ae268cbe59c600cc7e/banner.svg)
 
-I'm an Engineering Science student at the University of Toronto interested in **AI robotics**. I’m especially interested in how to evaluate robot training data and how those evaluations can guide what we use to train models.
+I’m an Engineering Science student at the University of Toronto. My interests lie in **AI robotics**, particularly in improving the data pipeline for model training. I’m interested in collecting high-quality data, evaluating its usefulness, and refining how it’s prepared and used to train capable, reliable robotic systems.
 
 **[Portfolio ↗](https://reagan-hu.vercel.app/)**
 
