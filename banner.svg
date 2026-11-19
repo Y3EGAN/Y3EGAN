@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="222" viewBox="0 0 900 222" role="img" aria-labelledby="title">
-  <title id="title">Reagan Hu — Robotics and Autonomous Systems</title>
+  <title id="title">Reagan Hu — AI Robotics and Robot Learning</title>
   <defs>
-    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <linearGradient id="background" x2="100%" y2="100%">
       <stop stop-color="#101a22"/>
       <stop offset="1" stop-color="#132c30"/>
     </linearGradient>
@@ -29,7 +29,7 @@
     </g>
     <path d="M42 52h32" stroke="#52ddbc" stroke-width="3" stroke-linecap="round"/>
     <text x="39" y="116" fill="#f1f8f7" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Reagan Hu</text>
-    <text x="43" y="160" fill="#9ae8d7" font-family="monospace" font-size="16" letter-spacing="1.6">ROBOTICS / AUTONOMOUS SYSTEMS</text>
+    <text x="43" y="160" fill="#9ae8d7" font-family="monospace" font-size="16" letter-spacing="1.6">AI ROBOTICS / ROBOT LEARNING</text>
   </g>
   <rect x=".5" y=".5" width="899" height="221" rx="15.5" fill="none" stroke="#719b9d" stroke-opacity=".55"/>
 </svg>
